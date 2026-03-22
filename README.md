@@ -8,8 +8,6 @@ L’objectif du projet était de concevoir un premier tableau de bord Power BI �
 ## Sujet du projet
 J'ai travaillé sur le dataset **Netflix Movies and TV Shows**, issu de Kaggle, contenant des informations sur les contenus présents dans le catalogue Netflix.
 
-Chaque ligne du jeu de données correspond à un contenu Netflix identifié par un `show_id`.
-
 ## Objectifs du TP
 - Identifier deux indicateurs de performance
 - Concevoir un schéma en étoile
